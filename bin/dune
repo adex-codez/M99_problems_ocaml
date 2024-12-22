@@ -1,0 +1,4 @@
+(executable
+ (public_name M99_problems_ocaml)
+ (name main)
+ (libraries M99_problems_ocaml))
